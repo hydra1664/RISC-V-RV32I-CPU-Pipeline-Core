@@ -68,5 +68,6 @@ Add forwarding unit to reduce stalls.
 Support for more RISC-V instructions and extensions.
 Performance improvements with branch prediction.
 
-License
+## License
+
 This project is open-source and for educational purposes.
