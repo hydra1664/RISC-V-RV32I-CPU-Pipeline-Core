@@ -53,11 +53,14 @@ All source code and outputs are inside the `Main/` folder:
    ```bash
    cd Main
 2. Compile the CPU with Icarus Verilog:
-  iverilog -o out.vvp Pipeline_tb.v 
+   ```bash
+   iverilog -o out.vvp Pipeline_tb.v 
 3. Run the simulation:
-  vvp out.vvp
+   ```bash
+   vvp out.vvp
 4. View the waveform with GTKWave:
-  gtkwave dump.vcd pipeline.gtkw
+   ```bash
+   gtkwave dump.vcd pipeline.gtkw
 
 ## Future Work
 
