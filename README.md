@@ -38,7 +38,11 @@ Design and simulate a minimal RISC-V RV32I CPU core using Verilog/VHDL, ensuring
 
 ## Repository Structure
 ├── src/ # Verilog source files
+
 ├── testbench/ # Testbench and assembly program
+
 ├── waveforms/ # Simulation output and GTKWave files
+
 ├── report/ # Documentation and hazard explanation
+
 └── README.md # Project overview
